@@ -14,6 +14,6 @@ public class TestConsumer {
         Consumer <String> consumer2 = (x) -> {
             System.out.println(x + "OK!!!");
         };
-        consumer1.andThen(consumer2).accept("TestConsumerAfterThen - ");
+        Consumer<String> x = consumer1.andThen(consumer2); //.accept("TestConsumerAfterThen - ");
     }
 }
