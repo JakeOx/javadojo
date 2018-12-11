@@ -67,7 +67,7 @@ public class ProcessEvenOddPali {
 		  PerformOperation op;
 		  boolean ret = false;
 		  String ans = null;
-		  while (T--> 0) {
+		  while (T --> 0) {
 		   String s = br.readLine().trim();
 		   StringTokenizer st = new StringTokenizer(s);
 		   int ch = Integer.parseInt(st.nextToken());
