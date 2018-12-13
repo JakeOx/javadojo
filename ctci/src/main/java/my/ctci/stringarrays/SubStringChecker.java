@@ -10,6 +10,8 @@ public class SubStringChecker {
 		
 	
 /*
+ * ALGORITHM: 
+ * 
  * Eg: s2 = hopedale
  *     s1 = peda
  *     
