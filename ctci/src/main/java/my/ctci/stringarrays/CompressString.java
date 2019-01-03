@@ -8,9 +8,7 @@ public class CompressString {
 	public static void main(String[] args){
 		
 		CompressString cs = new CompressString();
-		
 		System.out.println(cs.compressBetter("aaaabbbbcccd"));	
-
 	}
 	
 	public  String compressBetter(String str){
@@ -26,7 +24,6 @@ public class CompressString {
 		int count=1;
 		
 		for (int i =1 ; i <str.length(); i++){
-			
 			if (str.charAt(i) == last){
 				count++;
 			}else {
