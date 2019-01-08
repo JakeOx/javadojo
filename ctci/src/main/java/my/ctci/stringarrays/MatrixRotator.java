@@ -21,10 +21,24 @@ public class MatrixRotator {
 
 					
 	}
+	
+
+	public static void printArray2(int[][] img, int size){
+
+		//Using the Enhanced for-loop
+		for(int[] x : img){
+			for( int y : x){
+				System.out.print(y);
+			}
+			System.out.println();
+		}
+	}
+
 
 	private static void printArray(int[][] m, int n){
 		System.out.println();
-		
+
+		//Using the Simple for-loop
 		for (int i=0; i<n; i++){
 			System.out.println();
 			for (int j=0; j<n; j++){
