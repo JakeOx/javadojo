@@ -44,7 +44,7 @@ public class SubStringChecker {
                     break; 
             }
   
-            if (j == M) 
+            if (j == M-1) 
                 return i; 
         } 
         return -1; 

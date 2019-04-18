@@ -113,6 +113,6 @@ public class DataStructure {
         
         System.out.println("print(Function) with method references");
         ds.print(DataStructure::isEvenIndex);
-        ds.print(DataStructure::isOddIndex);
+        ds.print(DataStructure::isOddIndex)
     }
 }
