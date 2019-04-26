@@ -11,8 +11,9 @@ public class ApplyFuncPerson {
 	public static void main(String[] args){
 		
 		//Create a List of Persons
+
 		
-		List<Person> roster = new ArrayList<>();
+		List<Person> roster = new  ArrayList<>();
 		roster.add(new Person("Jim", null, Sex.MALE, "jim@gmail.com"));
 		roster.add(new Person("James", null, Sex.MALE, "james@gmail.com"));
 		roster.add(new Person("John", null, Sex.MALE, "john@gmail.com"));

@@ -76,3 +76,4 @@ local.properties
 
 # End of https://www.gitignore.io/api/eclipse
 
+language/nested-classes/.settings/org.eclipse.jdt.core.prefs
