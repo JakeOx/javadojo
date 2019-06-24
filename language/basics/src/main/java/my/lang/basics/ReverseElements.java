@@ -7,6 +7,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/*
+ * Inspired from site: https://www.leveluplunch.com/java/tutorials/028-reverse-order-stream-elements-java8/
+ */
 public class ReverseElements {
 	
 	public static void main(String[] args) {
