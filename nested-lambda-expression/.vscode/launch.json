@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ApplyFuncPerson",
+            "request": "launch",
+            "mainClass": "main.java.my.nested.ApplyFuncPerson",
+            "projectName": "nested-lambda-expression"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReferenceVariables",
+            "request": "launch",
+            "mainClass": "my.lang.basics.ReferenceVariables",
+            "projectName": "basics"
+        }
+    ]
+}

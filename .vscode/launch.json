@@ -1,0 +1,393 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharAt<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.ArraysNStrings.CharAt",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IsUnique<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.ArraysNStrings.IsUnique",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SupermarketQueue<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.codewars.excercise.SupermarketQueue",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublyLinkedListDemo<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.datastructure.DoublyLinkedList.DoublyLinkedListDemo",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionSort<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.datastructure.sorting.InsertionSort",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeSorter<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.datastructure.sorting.MergeSorter",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SelectionSort<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.datastructure.sorting.SelectionSort",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SelectionSortReview2<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.datastructure.sorting.SelectionSortReview2",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearchTree<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.datastructure.trees.BinarySearchTree",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestInt<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.datastructure.trees.TestInt",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayRotate<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.hackerrank.crackingcode.ArrayRotate",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayRotateOptimized<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.hackerrank.crackingcode.ArrayRotateOptimized",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BalancedBrackets<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.hackerrank.crackingcode.BalancedBrackets",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedListDemo<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.hackerrank.crackingcode.LinkedListDemo",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MakeAnagrams<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.hackerrank.crackingcode.MakeAnagrams",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MakeAnagramsOptimized<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.hackerrank.crackingcode.MakeAnagramsOptimized",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Permutate<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.hackerrank.crackingcode.Permutate",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QueueUsingStack<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.hackerrank.crackingcode.QueueUsingStack",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RansomNote<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.hackerrank.crackingcode.RansomNote",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ParseCSV<Sandbox_Programs_Small>",
+            "request": "launch",
+            "mainClass": "my.parse.file.ParseCSV",
+            "projectName": "Sandbox_Programs_Small"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<SimpleSpringCoreApp>",
+            "request": "launch",
+            "mainClass": "my.spring.core.App",
+            "projectName": "SimpleSpringCoreApp"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SimpleSpringMainApp<SimpleSpringCoreApp>",
+            "request": "launch",
+            "mainClass": "my.spring.core.SimpleSpringMainApp",
+            "projectName": "SimpleSpringCoreApp"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<basics>",
+            "request": "launch",
+            "mainClass": "my.lang.basics.App",
+            "projectName": "basics"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReferenceVariables<basics>",
+            "request": "launch",
+            "mainClass": "my.lang.basics.ReferenceVariables",
+            "projectName": "basics"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MatrixRotator<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.scratch.MatrixRotator",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemoveDupChars<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.scratch.RemoveDupChars",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemoveDuplicateCharacters<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.scratch.RemoveDuplicateCharacters",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemoveDupsChars_2<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.scratch.RemoveDupsChars_2",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RotateChecker<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.scratch.RotateChecker",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RotaterChecker_2<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.scratch.RotaterChecker_2",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StrCompressor<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.scratch.StrCompressor",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringCompress2<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.scratch.StringCompress2",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.stringarrays.App",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CompressString<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.stringarrays.CompressString",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DuplicateRemover<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.stringarrays.DuplicateRemover",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MatrixRotator<ctci>(1)",
+            "request": "launch",
+            "mainClass": "my.ctci.stringarrays.MatrixRotator",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RotationChecker<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.stringarrays.RotationChecker",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubStringChecker<ctci>",
+            "request": "launch",
+            "mainClass": "my.ctci.stringarrays.SubStringChecker",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<mergeSorter>",
+            "request": "launch",
+            "mainClass": "my.algo.datastructures.App",
+            "projectName": "mergeSorter"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<nested-classes>",
+            "request": "launch",
+            "mainClass": "my.nested.App",
+            "projectName": "nested-classes"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DataStructure<nested-classes>",
+            "request": "launch",
+            "mainClass": "my.nested.DataStructure",
+            "projectName": "nested-classes"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PersonProcessor<nested-classes>",
+            "request": "launch",
+            "mainClass": "my.nested.PersonProcessor",
+            "projectName": "nested-classes"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<nested-lambda-expression>",
+            "request": "launch",
+            "mainClass": "my.nested.App",
+            "projectName": "nested-lambda-expression"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ApplyFuncPerson<nested-lambda-expression>",
+            "request": "launch",
+            "mainClass": "my.nested.ApplyFuncPerson",
+            "projectName": "nested-lambda-expression"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FunctionRTExample<nested-lambda-expression>",
+            "request": "launch",
+            "mainClass": "my.nested.FunctionRTExample",
+            "projectName": "nested-lambda-expression"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Operation<nested-lambda-expression>",
+            "request": "launch",
+            "mainClass": "my.nested.Operation",
+            "projectName": "nested-lambda-expression"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ProcessEvenOddPali<nested-lambda-expression>",
+            "request": "launch",
+            "mainClass": "my.nested.ProcessEvenOddPali",
+            "projectName": "nested-lambda-expression"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RosterTest<nested-lambda-expression>",
+            "request": "launch",
+            "mainClass": "my.nested.RosterTest",
+            "projectName": "nested-lambda-expression"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestConsumer<nested-lambda-expression>",
+            "request": "launch",
+            "mainClass": "my.nested.TestConsumer",
+            "projectName": "nested-lambda-expression"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<playcards>",
+            "request": "launch",
+            "mainClass": "my.games.App",
+            "projectName": "playcards"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Card<playcards>",
+            "request": "launch",
+            "mainClass": "my.games.Card",
+            "projectName": "playcards"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<queue>",
+            "request": "launch",
+            "mainClass": "my.algo.datastructure.App",
+            "projectName": "queue"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Queue<queue>",
+            "request": "launch",
+            "mainClass": "my.algo.datastructure.Queue",
+            "projectName": "queue"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QueueTest<queue>",
+            "request": "launch",
+            "mainClass": "my.algo.datastructure.QueueTest",
+            "projectName": "queue"
+        }
+    ]
+}

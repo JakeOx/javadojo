@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RotateChecker",
+            "request": "launch",
+            "mainClass": "my.ctci.scratch.RotateChecker",
+            "projectName": "ctci"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MatrixRotator",
+            "request": "launch",
+            "mainClass": "my.ctci.scratch.MatrixRotator",
+            "projectName": "ctci"
+        }
+    ]
+}

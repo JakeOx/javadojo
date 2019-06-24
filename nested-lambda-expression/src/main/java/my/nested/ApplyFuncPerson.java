@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Function;
 
-import my.nested.Person.Sex;
+import main.java.my.nested.Person.Sex;
 
 public class ApplyFuncPerson {
 	
