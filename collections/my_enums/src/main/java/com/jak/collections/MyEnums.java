@@ -8,7 +8,7 @@ public class MyEnums{
     
     public static void main(String[] args){
         
-        //Build and print the Enums
+        //Build and print the Enums. 
         MyEnums doEnums = new MyEnums();
         doEnums.buildMap();
         doEnums.printMap();
@@ -27,7 +27,6 @@ public class MyEnums{
        schedule.put(DaysOfWeek.SATURDAY, "Lacrose");
        schedule.put(DaysOfWeek.SUNDAY, "Church");
     
-
        assert schedule.get(DaysOfWeek.TUESDAY).equalsIgnoreCase("Basketball");
        assert (schedule.size() == 7);
    }
